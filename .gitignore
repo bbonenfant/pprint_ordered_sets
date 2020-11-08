@@ -3,4 +3,6 @@
 .idea
 .venv
 __pycache__
+dist
 .DS_Store
+.python_version
