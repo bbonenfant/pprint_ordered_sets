@@ -10,7 +10,7 @@ classifiers = [
 keywords = ["pprint", "sets"]
 
 [tool.poetry.dependencies]
-python = "^3.3"
+python = "^3.6"
 
 [tool.poetry.dev-dependencies]
 
